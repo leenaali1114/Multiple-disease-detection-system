@@ -7,6 +7,10 @@ Flask app to detect multiple diseases using machine learning. The flask app also
 - Create a virtual environment in conda using :
     
     conda create -n <env name> python==3.9
+
+- Install the required libraries from requirements.txt
+
+    python install -r requirements.txt
     
 - Activate the conda environment using conda: 
 
