@@ -25,7 +25,13 @@ Flask app to detect multiple diseases using machine learning. The flask app also
     pip install pycaret
     pip install tensorflow
     pip install imutils
+    pip install nltk
     
+    Open python shell by typing python
+        import nltk
+        nltk.download('punkt')
+        
+        
 ## Install flask using :
 
     pip install flask
